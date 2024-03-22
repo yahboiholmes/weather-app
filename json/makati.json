@@ -1,0 +1,44 @@
+[
+
+    {
+      "id": "1",
+      "latitude": "14.553",
+      "longitude": "121.0615",
+      "location": "EastRembo",
+      "temperature": "27C",
+      "visibility": "partly cloudy"
+    },
+    {
+      "id": "2",
+      "latitude": "14.553",
+      "longitude": "121.0579",
+      "location": "WestRembo",
+      "temperature": "29C",
+      "visibility": "cloudy"
+    },
+    {
+      "id": "3",
+      "latitude": "14.5467",
+      "longitude": "121.0643",
+      "location": "Comembo",
+      "temperature": "30C",
+      "visibility": "sunny"
+    },
+    {
+      "id": "4",
+      "latitude": "14.5441",
+      "longitude": "121.0578",
+      "location": "Pembo",
+      "temperature": "31C",
+      "visibility": "sunny"
+    },
+    {
+      "id": "5",
+      "latitude": "14.5648",
+      "longitude": "121.0514",
+      "location": "Cembo",
+      "temperature": "32C",
+      "visibility": "partly sunny"
+    }
+  ]
+  

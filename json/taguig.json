@@ -1,0 +1,48 @@
+[
+
+    {
+       "id": "1",
+       "latitude": "14.5308",
+       "longitude": "121.0715",
+       "location": "Tuktukan",
+       "temperature": "20C",
+       "visibility": "cloudy"
+   },
+   
+   {
+       "id": "2",
+       "latitude": "14.5619",
+       "longitude": "121.0579",
+       "location": "Upper Bicutan",
+       "temperature": "40C",
+       "visibility": "sunny"
+   },
+
+   {
+       "id": "3",
+       "latitude": "14.5467",
+       "longitude": "121.0643",
+       "location": "Ususan",
+       "temperature": "28C",
+       "visibility": "partly rain"
+   },
+
+   {
+       "id": "4",
+       "latitude": "14.5441",
+       "longitude": "121.0578",
+       "location": "Wawa",
+       "temperature": "27C",
+       "visibility": "partly fog"
+   },
+
+   {
+       "id": "5",
+       "latitude": "14.5648",
+       "longitude": "121.0514",
+       "location": "Western Bicutan",
+       "temperature": "32C",
+       "visibility": "partly sunny"
+   }
+
+]
